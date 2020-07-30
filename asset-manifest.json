@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/My-To-Do/static/js/main.1c3d0664.chunk.js",
+    "main.js.map": "/My-To-Do/static/js/main.1c3d0664.chunk.js.map",
+    "runtime-main.js": "/My-To-Do/static/js/runtime-main.4539ced8.js",
+    "runtime-main.js.map": "/My-To-Do/static/js/runtime-main.4539ced8.js.map",
+    "static/js/2.858b91f0.chunk.js": "/My-To-Do/static/js/2.858b91f0.chunk.js",
+    "static/js/2.858b91f0.chunk.js.map": "/My-To-Do/static/js/2.858b91f0.chunk.js.map",
+    "index.html": "/My-To-Do/index.html",
+    "precache-manifest.c0946a409a1a271e3b1e7bc2e31a1746.js": "/My-To-Do/precache-manifest.c0946a409a1a271e3b1e7bc2e31a1746.js",
+    "service-worker.js": "/My-To-Do/service-worker.js",
+    "static/js/2.858b91f0.chunk.js.LICENSE.txt": "/My-To-Do/static/js/2.858b91f0.chunk.js.LICENSE.txt",
+    "static/media/arrow.png": "/My-To-Do/static/media/arrow.b17c864b.png",
+    "static/media/fundo.png": "/My-To-Do/static/media/fundo.67ec4847.png",
+    "static/media/pencil.png": "/My-To-Do/static/media/pencil.dd0fc38c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4539ced8.js",
+    "static/js/2.858b91f0.chunk.js",
+    "static/js/main.1c3d0664.chunk.js"
+  ]
+}
